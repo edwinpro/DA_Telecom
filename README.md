@@ -29,9 +29,9 @@ El objetivo principal de este proyecto de análisis de datos es comprender y mej
 ---
 
 - [**Assets**:](./Assets/) Directorio que incluye los recursos visuales necesarios (imágenes principalmente).
+- [**Dashboard**:](./Dashboard-DA_Telecom.pbix) Reporte interactivo realizado en Power BI de Microsoft que refleja todo el análisis.
 - [**Datasets**:](./Datasets/) Directorio donde se disponibilizan las fuentes de datos. Son todos archivos csv.
 - [**Notebooks**:](./Notebooks/) Informe de Análisis exploratorio de datos (ETL & EDA) y modelado necesario para llevar a cabo el reporte.
-- [**Dashboard**:](./Dashboard-DA_Telecom.pbix) Reporte intercativo realizado en Power BI de Microsoft que refleja todo el análisis.
 
 ## **REQUISITOS**
 
